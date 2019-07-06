@@ -1,11 +1,9 @@
-﻿# [RK3328](https://github.com/mcuyun/RK3328) 
+﻿# [RK3328](https://github.com/sochub/RK3328) 
+[![sites](SoC/qitas.png)](http://www.qitas.cn)
+#### 厂商：[rockchips](https://github.com/sochub/rockchips)
+#### 架构：[cortex A53](https://github.com/sochub/CA53)
 
-[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
-
-#### 归属：[cortex A53系列](https://github.com/mcuyun/CA53)
-#### [关于悠云](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
-
-## [简介](https://github.com/mcuyun/RK3328/wiki)
+## [RK3328简介](https://github.com/sochub/RK3328/wiki)
 
 [![sites](docs/3328.png)](docs/)
 
@@ -19,24 +17,17 @@
 
 封装：TFBGA395L (14mm x 14mm; ball: 0.3mm pitch 0.65mm)
 
-### [瑞芯微平台](https://github.com/mcuyun/rockchips)
-
-平台相关资料
-
-#### [linux系统](https://github.com/rockchip-linux/kernel.git)
-
-开源Linux系统固件
 
 #### [参考资料](docs/)
 
 包括芯片相关资料
+
+## 官方资源
+
+ [linux系统](https://github.com/rockchip-linux/kernel.git)
  
+### [选型建议](https://github.com/sochub)
 
+高性价盒子处理器
 
----
-
-###  [悠云，为嵌入式](http://www.mcuyun.com)   
-###  qitas@qitas.cn
-
-
-
+##  [SoC资源平台](http://www.qitas.cn)
