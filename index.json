@@ -1,9 +1,9 @@
 {
     "type":"MCU",
     "name":"CS32A039",
-    "tags": ["Type-C","USB PD3.0"],
+    "tags": ["ADC","Sigma-Delta","PGA"],
     "series":["CS32A039"],
-    "description":"Eastsoft 8bit RISC OTP MCU",
+    "description":"chipsea 24bit ADC MCU",
     "peripheral": ["ADC","TIM","PWM"],
     "package":["LQFP64"],
     "encryption": ["UID-96"],
